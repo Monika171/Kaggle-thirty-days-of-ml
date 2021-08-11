@@ -1,1 +1,6 @@
-Kaggle 30 Days of ML challenge for data science and machine learning started on Monday, August 2, and lasted four weeks. First two weeks consists of daily hands-on coding assignment and final two weeks, an invite-only ML competition.
+# <p align="center"><u> Kaggle #30DaysOfML challenge </u></p>
+
+## Schedule:
+<p align="center"> <img src="https://github.com/Monika171/Kaggle-thirty-days-of-ml/blob/main/Week-1.png" width=500> </p>
+<br><br>
+<p align="center"> <img src="https://github.com/Monika171/Kaggle-thirty-days-of-ml/blob/main/Week-2.png" width=500> </p>
